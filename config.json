@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoreetch",
+        "uuid": 23086320,
+        "checksum": "klpp3k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
